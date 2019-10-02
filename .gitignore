@@ -1,3 +1,4 @@
+.env
 *.jpeg
 *.png
 themes/.out-of-the-way
