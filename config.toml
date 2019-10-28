@@ -47,3 +47,9 @@ googleAnalytics = "UA-146526628-2"
   weight = 3
   identifier = "photos"
   url = "/photos/"
+
+[[menu.main]]
+  name = "OneTabs"
+  weight = 4
+  identifier = "onetabs"
+  url = "/onetabs/"
