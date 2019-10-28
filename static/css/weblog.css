@@ -138,6 +138,20 @@ nav ul > li {
   border-radius: 10px;
 }
 
+.onetab {
+  background-color: #c6c5df;
+  /* margin: 40px auto; */
+  margin: 5px auto;
+  padding: 5px 5px 5px 15px;
+  max-width: 780px;
+  border-radius: 10px;
+}
+
+article.onetab span.postmeta {
+  font-size: 0.75em;
+  color: black;
+}
+
 .post, .page, .post-groups {
   margin: 40px auto;
   max-width: 780px;
