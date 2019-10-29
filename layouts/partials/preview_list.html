@@ -1,0 +1,27 @@
+{{ $paginator := .Paginate (where .Data.Pages "Type" "!=" "page") }}
+
+{{ range .Paginator.Pages }}
+{{/* <h1> Debugging = Check Console </h1> */}}
+{{/* <script>console.log({{ .Type }});</script> */}}
+
+  {{ $url := replace .Permalink .Site.BaseURL "" }}
+
+  {{ if or (eq .Type "onetabs") (eq .Type "onetab") }}
+    {{ partial "preview_onetab.html" . }}
+  {{ end }}
+
+  {{ if or (eq .Type "microposts") (eq .Type "micropost") }}
+    {{ partial "preview_micropost.html" . }}
+  {{ end }}
+
+  {{ if or (eq .Type "photos") (eq .Type "photo") }}
+    {{ partial "preview_photo_post.html" . }}
+  {{ end }}
+
+  {{ if or (eq .Type "posts") (eq .Type "post") }}
+    {{ partial "preview_post.html" . }}
+  {{ end }}
+
+{{ end }}
+
+{{ partial "pagination.html" . }}
