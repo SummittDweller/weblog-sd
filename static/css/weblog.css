@@ -132,10 +132,24 @@ nav ul > li {
 .micropost {
   background-color: #F0F2F5;
   /* margin: 40px auto; */
-  margin: 20px auto;
+  margin: 5px auto;
   padding: 10px;
   max-width: 780px;
   border-radius: 10px;
+}
+
+.onetab {
+  background-color: #e8e7f7;
+  /* margin: 40px auto; */
+  margin: 0px auto;
+  padding: 0px 5px 0px 15px;
+  max-width: 780px;
+  border-radius: 10px;
+}
+
+article.onetab span.postmeta {
+  font-size: 0.75em;
+  color: black;
 }
 
 .post, .page, .post-groups {
@@ -149,6 +163,10 @@ nav ul > li {
   line-height: 25px;
   margin: 0;
   /* text-align: justify; */
+}
+
+.onetab > p {
+  margin: 0;
 }
 
 .post > p {
