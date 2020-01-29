@@ -1,3 +1,5 @@
+# params:buildDate is automatically updated by push-update.sh
+
 baseURL = "https://summittdweller.com/blogs/mark/"
 canonifyURLs = true
 languageCode = "en-us"
@@ -18,12 +20,12 @@ googleAnalytics = "UA-146526628-2"
    FlickrID = "97761917@N02"
 
 [params]
-   build = 76     # this value is auto-incremened using 'perl' in push-update.sh
    Description = "Personal weblog of web professional, geocacher, camper, and volunteer, Mark McFate."
    ShowCopyright = true
    RSSEnabled = true
    RSSSections = [ "Posts", "Microposts", "Photos" ]
    RSSMicropostTitles = false
+   buildDate = '2020-01-28 16:15'
 
 [taxonomies]
   tag = "tags"

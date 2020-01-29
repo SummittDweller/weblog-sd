@@ -16,7 +16,7 @@
           {{ end }}
           {{ with .Site.Author.aboutpage }}<li><a href="{{ . }}">About</a></li>{{ end }}
         </ul>
-        <p class="site-rev">{{ if .Site.Params.build }} Build: {{ .Site.Params.build }}&nbsp; ~ &nbsp;{{ .Site.LastChange.Format "2-Jan-2006" }}{{ end }}</p>
+        <p class="site-rev">{{ if .Site.Params.buildDate }} Build: {{ .Site.Params.buildDate }}&nbsp;&bullet; &nbsp;Content: {{ .Site.LastChange.Format "2-Jan-2006" }}{{ end }}</p>
       {{ end }}
     </div>
   </nav>
