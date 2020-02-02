@@ -25,7 +25,7 @@ googleAnalytics = "UA-146526628-2"
    RSSEnabled = true
    RSSSections = [ "Posts", "Microposts", "Photos" ]
    RSSMicropostTitles = false
-   buildDate = '2020-02-01 17:24'
+   buildDate = '2020-02-02 10:02'
 
 [taxonomies]
   tag = "tags"
