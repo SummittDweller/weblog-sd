@@ -1,9 +1,11 @@
-{{ $paginator := .Paginate (where .Data.Pages "Type" "!=" "page") }}
+
+{{ $pages := .Pages }}
+{{ if .IsHome }}
+{{ $pages = .Site.RegularPages }}
+{{ end }}
+{{ $paginator := .Paginate $pages }}
 
 {{ range .Paginator.Pages }}
-{{/* <h1> Debugging = Check Console </h1> */}}
-{{/* <script>console.log({{ .Type }});</script> */}}
-
   {{ $url := replace .Permalink .Site.BaseURL "" }}
 
   {{ if or (eq .Type "microposts") (eq .Type "micropost") }}
