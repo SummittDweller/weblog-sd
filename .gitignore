@@ -2,3 +2,4 @@
 *.jpeg
 *.png
 themes/.out-of-the-way
+public/*
