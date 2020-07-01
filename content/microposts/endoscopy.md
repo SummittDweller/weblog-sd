@@ -1,0 +1,1 @@
+Been sitting in MercyOne DSM endoscopy since 11 AM and they haven't even called Chris in to prep her yet.
