@@ -6,4 +6,4 @@ weight: -20200701
 draft: false
 ---
 
-Been sitting in the endocopy waiting room at MercyOne DSM since 10:50 AM and they haven't even called Chris in to prep her yet. 😦 Gonna be a very long day.
+Been sitting in the endoscopy waiting room at MercyOne DSM since 10:50 AM and they haven't even called Chris in to prep her yet. 😦 Gonna be a very long day.
