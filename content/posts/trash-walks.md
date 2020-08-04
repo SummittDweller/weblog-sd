@@ -2,9 +2,15 @@
 title: "Pandemic Pastime: Walking and Picking Up Trash"
 publishDate: 2020-08-03
 lastmod: 2020-08-03T11:55:05-05:00
-location: Toledo, Iowa
+location: "Toledo, Iowa"
 weight: -20200803
 draft: false
+tags:
+  - walking
+  - Niffty Nabber
+  - pandemic
+  - scurry
+  - gpx
 ---
 
 It's been far too long since I posted to this blog; I guess I've been busy? Nah, not any more than usual, but during the COVID-19 pandemic I have doubled my efforts to get out and walk in the fresh air whenever possible. I'm thankful for my small "scurry" -- that's the term for a collective of squirrels -- who not only take walks with me around Cherry Lake, but all around town.
