@@ -1,7 +1,7 @@
 ---
 title: "Iowa's 2020 Hurricane"
 publishDate: 2020-08-18
-lastmod: 2020-08-20T22:04:41-05:00
+lastmod: 2020-08-20T22:18:25-05:00
 location: "Toledo, Iowa"
 weight: -20200818
 draft: false
@@ -214,9 +214,9 @@ This is a glimpse of what we found there...
 
 ![Oak Hill Cemetery from Near the Hilltop Looking South](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-41.jpeg "Oak Hill Cemetery from Our Parked Car, Looking South")
 
-![180&deg; Panorama](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-43.jpeg "Oak Hill Cemetery 180&deg; Panorama")
+![180 Degree Panorama](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-43.jpeg "Oak Hill Cemetery - 180 Degree Panorama")
 
-I could not bear to shoot the panorama looking over the opposite 180&deg; view...it was just too sad. :cry:
+I could not bear to shoot the panorama over the opposing 180&deg; view...it was just too sad. :cry:
 
 ![The Big Pine Near the McFate Plots](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-49.jpeg "The Big Pine Near the McFate Plots")
 
