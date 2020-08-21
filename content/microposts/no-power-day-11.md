@@ -1,0 +1,1 @@
+And so begins day number 11 without power. I think I have watched at least a dozen Alliant energy trucks Drive by the house already this morning. I honestly don't think they know where we are.
