@@ -16,7 +16,7 @@ Almost every day for the past few months I have walked with my "scurry" around C
 
 <!--more-->
 
-At the west end of Cherry Lake I placed a bench and engraved rock as a memorial for my parents, and my son, Ian. The most recent, before the derecho, photo of the rock and bench were taken on a "scurry" walk around the lake earlier in the Spring. Scurry partners Jeff Shaw, and the hind-quarters of four-legged scurry member, Titan Edward, can be seen in this photo from that excursion:
+At the west end of Cherry Lake I placed a bench and engraved rock as a memorial for my parents, and my son, Ian. The most recent, pre-derecho photo of the rock and bench was taken on a "scurry" walk around the lake early this Spring. Portions of scurry-partners Jeff Shaw, and the hind-quarters of four-legged scurry member, Titan Edward, can be seen in this photo from that excursion.
 
 ![McFate Memorial Bench at Cherry Lake - Early Spring 2020](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0121.png "McFate Memorial Bench at Cherry Lake - Early Spring 2020")
 
@@ -28,9 +28,9 @@ After three hours of cutting and tossing debris to the side of the trail, we rea
 
 ![McFate Memorial Bench at Cherry Lake - After the Derecho](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0324.png "McFate Memorial Bench at Cherry Lake - After the Derecho")
 
-By this time we had waded through way too much PI, been briefly rained on, dulled Charlie's chainsaw blade, and drained both of the saw batteries I had on hand. I think we were drained too. Time for a break, so at 10 AM we departed for some rest, lunch, fresh batteries, and hopefully a new chain for Charlie's saw. We reconvened at Noon, as planned, and spent the next two hours clearing the deadfall around the McFate bench, plus another couple of monster trees that had fallen across the trail near the southeast corner of the lake.
+By this time we had waded through way too much PI, been briefly rained on, dulled Charlie's chainsaw blade, and drained both of the saw batteries I had on hand. I think we were drained too. Time for a break, so at 10 AM we departed for some rest, lunch, fresh batteries, and hopefully a new chain for Charlie's saw. We reconvened at Noon, as planned, and spent the next two hours clearing the deadfall around the McFate bench, plus a pair of gnarly monsters that had fallen across the trail near the southeast corner of the lake.
 
-It felt really good to get it all done, and now we can engage in our "scurry" walks around the lake without all the bobbing and weaving required to navigate the obstacle course that was.  Every good volunteer effort should conclude with a photo or two, so we got all cleaned up, NOT, and I shot this one:
+It felt really good to get it all done, and now we can engage in our "scurry" walks around the lake without all the bobbing and weaving required to navigate the obstacle course that was.  Every good volunteer effort should conclude with a photo or two, so we got all cleaned up, NOT, and I shot this one.
 
 ![The Post-Derecho Cherry Lake Trail Cleanup Crew - Me, Charlie, and Jeff](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0325.png "The Post-Derecho Cherry Lake Trail Cleanup Crew - Me, Charlie, and Jeff")
 
