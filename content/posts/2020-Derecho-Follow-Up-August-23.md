@@ -1,9 +1,9 @@
 ---
-title: "Derecho Follow-Up - Saturday, August 23"
-publishDate: 2020-08-23
-lastmod: 2020-08-23T09:45:48-05:00
+title: "Derecho Follow-Up - Saturday, August 22"
+publishDate: 2020-08-22
+lastmod: 2020-08-22T21:45:48-05:00
 location: "Toledo, Iowa"
-weight: -20200823
+weight: -20200822
 draft: false
 tags:
   - Derecho
@@ -12,7 +12,7 @@ tags:
   - Cleanup
 ---
 
-Almost every day for the past few months I have walked with my "scurry" around Cherry Lake in Tama. We generally walk in the morning before the heat, humidity, and mosquitoes get too bad.  On Friday morning, August 22, 2020, our walk was more of an obstacle course.  There were about a dozen places around the lake, a trail that is about 1.33 miles long, where fallen trees required that we climb over or weave around. It's no fun to do either, especially since the "weaving" sometimes involved venturing off-trail into the poison ivy. Makes me itch just thinking about it.
+Almost every day for the past few months I have walked with my "scurry" around Cherry Lake in Tama. We generally walk in the morning before the heat, humidity, and mosquitoes get too bad.  We finally got power back on Thursday evening, August 20, so on Friday morning, August 21, 2020, we walked for the first time since the derecho of August 10. It was actually more like an obstacle course than our usual stroll, but we still managed to collect quite a bit of trash, as usual. There were about a dozen places around the lake, a trail that is about 1.33 miles long, where fallen trees required that we climb over or weave around. It's no fun to do either, especially since the "weaving" sometimes involved venturing off-trail into the poison ivy. Makes me itch just thinking about it.
 
 <!--more-->
 
