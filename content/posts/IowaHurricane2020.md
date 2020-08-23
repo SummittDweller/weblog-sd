@@ -32,7 +32,7 @@ The storms did indeed "hold together".  Oh boy, did they ever.  A wall of wind h
 
 ## 11:55 AM - Get the Cats!
 
-After hustling to the basement and realizing the house was not gone, yet, we thought we'd better go back upstairs to get some candles, more flashlights, and our three cats.  Mackenzie and I managed to get two of the cats pretty easily, but the third one was stubborn and had to be "captured".  While we were doing this I glanced out the window and saw nothing but tree limbs, still sailing past the windows on a nearly horizontal trajectory.  
+After hustling to the basement and realizing the house was not gone, yet, we thought we'd better go back upstairs to get some candles, more flashlights, and our three cats.  Mackenzie and I managed to get two of the cats pretty easily, but the third one was stubborn and had to be "captured".  While we were doing this I glanced out the window and saw nothing but tree limbs, still sailing past the windows on a nearly horizontal trajectory.
 
 By the time we captured the last cat I thought to myself, the wind can't last much longer...it had been blowing for at least 5 minutes straight, and I do mean STRAIGHT. I was very wrong.  Thinking back, I do believe the wind blew at upwards of 100 MPH or more for at least 20 minutes.
 
@@ -44,7 +44,7 @@ Morgan drove away from the Middle School just minutes before a wall-of-wind roar
 
 The 9-1-1 call had to route through Benton county (30 miles east of us) as the local center was already overwhelmed, and the storm hadn't hit there yet. A local police officer was dispatched and could get no closer than about 2.5 blocks from Morgan's car due to downed trees, but made his way to her on-foot. He told her same as me, stay in your car to avoid downed power lines and potentially being hit by flying debris. He also told her to fasten her seatbelt in case the wind flipped the car over. Yikes!  That happened at 12:18 PM, and the wind was still fierce!
 
-At 12:20 PM my wife realized where Morgan was and called a friend who lives at the location of Morgan's "tree incident", and that friend managed to summon her inside once it was safe to make a run for it.  
+At 12:20 PM my wife realized where Morgan was and called a friend who lives at the location of Morgan's "tree incident", and that friend managed to summon her inside once it was safe to make a run for it.
 
 ## 12:30 PM - The Wind Finally Stopped, Time to "Rescue" Morgan
 
