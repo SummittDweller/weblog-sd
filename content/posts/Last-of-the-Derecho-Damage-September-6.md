@@ -50,5 +50,12 @@ A few days after bringing most of the pine down, Brother's returned to remove so
 
 ![Brother's Rendering the Pine Harmless - Progress](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0367.png "A Few Days Later Brother's Returned to Clean-Up Hanging Limbs")
 
+## What To Do About My Lawn?
 
-That's a warp. Until next time...
+The one remaining concern I have is with my lawn; the combination of severe drought and lots of heavy equipment traffic has left great canyons in my grass. It litterally is too rough to drive my riding mower over it in most places. I'm frankly surprised the rough ride hasn't ruined my mower or any of my lawn equipment yet, or maybe it has?
+
+So I'm thinking, once the city has removed the newest debris (and there will almost certainly be more lawn-canyons after that), and after I've subsequently removed whatever they leave behind, I will probably ask one of the local landscape pros to come in. I'd like to have them dump a few loads of topsoil on the lawn and top-dress it all with a nice, smooth layer of soil that I'd hope to get planted for a new lawn before winter.
+
+Wish me luck.
+
+That's a warp. Until the next derecho, or the next time, whatever that may be...
