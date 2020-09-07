@@ -30,29 +30,29 @@ Before the storm my backyard was looking pretty good. It's not gone, but I just 
 
 I won't name names here, but the company that carries my home-owner's insurance has been NO help at all. I filed a claim with them on August 14 or so, and still have not heard anything from them. In fact, once I found out how badly damaged our big pine tree was I decided to call them directly, that was on Monday, August 24, I believe. I asked them if someone could come take a look at this tree because I'd put a plumb-line on it a few days before and was therefore able to detect that it was indeed tilting farther to the east each day. Their response was literally "It's not covered unless it's damaged your house."
 
-I told them I wasn't concerned about the coverage, I just wanted to know if they could help me determine what to do about it, or if they could even recommend someone who could give me an expert opinion about it. "No, we don't do that." So I asked "It's leaning to the northeast and the wind is out of the south, it could easily fall on the neighbor's house." Their response left me speechless, they said "If it falls on their house it is their problem, and their insurance will take care of it."
+I told them I wasn't concerned about the coverage, I just wanted to know if they could help me determine what to do about it, or if they could even recommend someone who could give me an expert opinion about it. "No, we don't do that.", was their answer. So I told them, "It's leaning to the northeast and the wind is out of the south, it could easily fall on the neighbor's house." Their response left me speechless, they said, "If it falls on their house it is their problem, and their insurance will take care of it."
 
-I guess I am just naive when it comes to insurance, I always thought they actually cared about people and were intent on helping prevent disasters, but apparently they just crunch numbers and dole out money, as little as possible I'm sure. I was, and still am, disgusted.
+I guess I am just naive when it comes to insurance, I always thought they actually cared about people and were intent on helping prevent disasters, but apparently they just crunch numbers and dole out money, as little as possible I'm sure. **I was, and still am, disgusted**.
 
 If they ever do contact me I'll listen to them as well and as long as they listened to me, and then I'm going to dump them just as soon as I can find coverage from someone who actually gives a damn.
 
 ## Brother's Tree Service To the Rescue
 
-While I was checking up on some apparent fly-by-night tree "professionals", or were they con-men, from out-of-state, I had the good fortune of meeting Martin, an owner of Brother's Tree Service. Martin looked at my tree damage and gave me a very reasonable quote to take care of all the "widow-makers".  At that time I wasn't planning to have the big pine taken down, but after my insurance disappointment I called Martin and asked him to come look at it ASAP. He thought it should come down AND he interrupted his busy schedule to sweep in on the evening of Wednesday, August 26, to render that leaning tree harmless.
+While I was checking up on some apparent fly-by-night tree "professionals" from out-of-state, I had the good fortune of meeting Shelby, the wife of Martin, an owner of Brother's Tree Service. Martin looked at my tree damage and gave me a very reasonable quote to take care of all the "widow-makers".  At that time I wasn't planning to have the big pine taken down, but after my insurance disappointment I called Martin and asked him to come look at it ASAP. He thought it should come down AND he interrupted his busy schedule to sweep in on the evening of Wednesday, August 26, to render that leaning tree harmless.
 
-I was impressed at how quickly, and safely, Martin and his partner brought the bulk of that tree down! Finally, I could get some sleep without worrying about which way the wind was blowing. I took a couple photos of that tree removal operation too.
+I was impressed at how quickly, professionally, and safely, Martin and his partner brought the bulk of that tree down! Finally, I could get some sleep without worrying about which way the wind was blowing. I took a couple photos of that tree removal operation too.
 
 ![Brother's Rendering the Pine Harmless](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0352.png "About 30 Minutes into the Pine Tree Removal")
 
 ![Brother's Rendering the Pine Harmless - Progress](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0362.png "After About 1 Hour of Pine Tree Removal")
 
-A few days after bringing most of the pine down, Brother's returned to remove some dangerous hanging limbs from my three remaining trees.
+A few days after bringing most of the pine down, Brother's returned to remove some dangerous hanging limbs from my three remaining trees. Now I could even park my car in my own driveway again!
 
 ![Brother's Rendering the Pine Harmless - Progress](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0367.png "A Few Days Later Brother's Returned to Clean-Up Hanging Limbs")
 
 ## What To Do About My Lawn?
 
-The one remaining concern I have is with my lawn; the combination of severe drought and lots of heavy equipment traffic has left great canyons in my grass. It litterally is too rough to drive my riding mower over it in most places. I'm frankly surprised the rough ride hasn't ruined my mower or any of my lawn equipment yet, or maybe it has?
+The one remaining concern I have is with my lawn; the combination of severe drought and lots of heavy equipment traffic has left great canyons in the grass. It litterally is too rough to drive my riding mower over it in most places. I'm frankly surprised the rough ride hasn't ruined my mower or any of my lawn equipment yet, or maybe it has?
 
 So I'm thinking, once the city has removed the newest debris (and there will almost certainly be more lawn-canyons after that), and after I've subsequently removed whatever they leave behind, I will probably ask one of the local landscape pros to come in. I'd like to have them dump a few loads of topsoil on the lawn and top-dress it all with a nice, smooth layer of soil that I'd hope to get planted for a new lawn before winter.
 
