@@ -1,0 +1,23 @@
+{{ partial "site_header.html" . }}
+{{ partial "page_header.html" . }}
+
+  {{ $file := "/announcement.md" }}
+  {{ if (fileExists $file) -}}
+    <div class="announcement-card">
+      <div class="card-body">
+        <h1 class="card-title">
+          Attention!
+        </h1>
+        <div class="announcement">
+          {{ $file | readFile | markdownify }}
+        </div>
+      </div>
+    </div>
+  {{- end }}
+
+  <main class="content list">
+    {{ partial "preview_list.html" . }}
+  </main>
+
+{{ partial "page_footer.html" . }}
+{{ partial "site_footer.html" . }}
