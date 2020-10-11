@@ -1,0 +1,1 @@
+This is my announcement test, part of `/content/announcement.md`.  It will disappear soon, specifically, when I change the filename to something else, like `/content/.announcement.md`.  See my [_New Announcement Feature_](posts/new-announcement-feature) blog post for details.

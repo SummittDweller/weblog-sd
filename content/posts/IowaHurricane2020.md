@@ -1,18 +1,21 @@
 ---
 title: "Iowa's 2020 Hurricane"
 publishDate: 2020-08-18
-lastmod: 2020-08-20T00:56:56-05:00
+lastmod: 2020-08-20T22:18:25-05:00
 location: "Toledo, Iowa"
 weight: -20200818
 draft: false
 tags:
   - Derecho
   - Land Hurricane
+  - Hurricane Iowa
 ---
 
 It's been far too long, again, since I posted to this blog, but this time I have a legitimate excuse: we've been without power or internet, or much of anything, since about 11:45 AM on Monday, August 10, 2020.  So we have now been more than 10.5 days without power. I'm only able to post this because of a portable generator I bought on August 12 (that was an adventure in itself) and the wireless hotspot that my phone has provided almost 24/7 ever since the storm hit.
 
 <!--more-->
+
+Update: Power was finally restored here at about 6:30 PM, on Thursday, August 20, 2020.  Now I just have 11.5 days of things to catch up on!
 
 ## Preamble
 
@@ -30,7 +33,7 @@ The storms did indeed "hold together".  Oh boy, did they ever.  A wall of wind h
 
 ## 11:55 AM - Get the Cats!
 
-After hustling to the basement and realizing the house was not gone, yet, we thought we'd better go back upstairs to get some candles, more flashlights, and our three cats.  Mackenzie and I managed to get two of the cats pretty easily, but the third one was stubborn and had to be "captured".  While we were doing this I glanced out the window and saw nothing but tree limbs, still sailing past the windows on a nearly horizontal trajectory.  
+After hustling to the basement and realizing the house was not gone, yet, we thought we'd better go back upstairs to get some candles, more flashlights, and our three cats.  Mackenzie and I managed to get two of the cats pretty easily, but the third one was stubborn and had to be "captured".  While we were doing this I glanced out the window and saw nothing but tree limbs, still sailing past the windows on a nearly horizontal trajectory.
 
 By the time we captured the last cat I thought to myself, the wind can't last much longer...it had been blowing for at least 5 minutes straight, and I do mean STRAIGHT. I was very wrong.  Thinking back, I do believe the wind blew at upwards of 100 MPH or more for at least 20 minutes.
 
@@ -42,7 +45,7 @@ Morgan drove away from the Middle School just minutes before a wall-of-wind roar
 
 The 9-1-1 call had to route through Benton county (30 miles east of us) as the local center was already overwhelmed, and the storm hadn't hit there yet. A local police officer was dispatched and could get no closer than about 2.5 blocks from Morgan's car due to downed trees, but made his way to her on-foot. He told her same as me, stay in your car to avoid downed power lines and potentially being hit by flying debris. He also told her to fasten her seatbelt in case the wind flipped the car over. Yikes!  That happened at 12:18 PM, and the wind was still fierce!
 
-At 12:20 PM my wife realized where Morgan was and called a friend who lives at the location of Morgan's "tree incident", and that friend managed to summon her inside once it was safe to make a run for it.  
+At 12:20 PM my wife realized where Morgan was and called a friend who lives at the location of Morgan's "tree incident", and that friend managed to summon her inside once it was safe to make a run for it.
 
 ## 12:30 PM - The Wind Finally Stopped, Time to "Rescue" Morgan
 
@@ -92,7 +95,7 @@ The power was out everywhere for 30 to 50 miles all around us so we assumed it w
 
 There were three pleasantly-amazing (lucky) things that happened, or didn't happen as the case may be, on the west, windward, side of the house.
 
-First up, my home-made lightweight teardrop camper, "The Rolling Stone".  It's the gray thing that looks like a big old boulder on wheels in the right side of the first image below.  It survived, almost unscathed! The only damage was from the door being blown open.  That door hit the west wall of the house so hard that it bent a 1/8" thick steel latch plate back at a 120-degree angle. Because the door was open things just inside the door also got a little wet, but they dried out well since then.  The whole camper pitched forward about 3' in the wind, but the on-board drop-foot was out so it didn't fall to the ground. Had any large limbs fallen directly on it we'd have had a total loss of structure and contents.
+First up, my home-made lightweight teardrop camper, "The Rolling Stone".  It's the gray thing that looks like a big old boulder on wheels in the right side of the first image below.  It survived, almost unscathed! The only damage was from the door being blown open.  That door hit the west wall of the house so hard that it bent a 1/8" thick steel latch plate back at a 120&deg; angle. Because the door was open, things just inside the door also got a little wet, but they dried out well since then.  The whole camper pitched forward about 3' in the wind, but the on-board drop-foot was down so it didn't fall to the ground. Had any large limbs fallen directly on it, we'd have had a total loss of structure and contents.
 
 ![30 Looking SE from the NW Corner of Our Property](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Derecho%20-%2030.png "Looking SE from the NW Corner of Our Property")
 
@@ -136,7 +139,7 @@ In the images below you can see both our west and south bomas.  We didn't need a
 
 ### The Tree Wrangler
 
-On Thursday, August 13, I started to address some of the potential window-makers still hanging in our trees.  My first target was the one shown below. I managed to rig a short chain to the end of a nylon rope and after about 10 tries I got the chain wrapped around the most menacing widow-maker, and yanked that sucker right out of the tree. They call me the "Tree Wrangler". I'm pleased to report that subsequent limb-roping adventures took fewer tosses!
+On Thursday, August 13, I started to address some of the potential widow-makers still hanging in our trees.  My first target was the one shown below. I managed to rig a short chain to the end of a nylon rope and after about 10 tries I got the chain wrapped around the most menacing widow-maker, and yanked that sucker right out of the tree. They call me the "Tree Wrangler". I'm pleased to report that subsequent limb-roping adventures took fewer tosses!
 
 ![38 The Tree Wrangler Roped His First Stray](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Derecho%20-%2038.png "'The Tree Wrangler' Roped His First Stray")
 
@@ -180,7 +183,7 @@ On Wednesday morning, August 12, I got word that some of the big-box hardware st
 
 ### My Biggest Remaining Concern - Broken at the Base?
 
-My biggest remaining worry is the pine tree at the NW corner of the house.  On Thursday, August 13, during clean-up I discovered that the bark on the SE side of the tree is "crushed" as you can see in the image below, and there's a visible "crack" on the NW side of the tree right at ground-level. Upon closer inspection it looks like the tree is leaning about 5-degrees, naturally right toward our house. :worried:
+My biggest remaining worry is the pine tree at the NW corner of the house.  On Thursday, August 13, during clean-up I discovered that the bark on the SE side of the tree is "crushed" as you can see in the image below, and there's a visible "crack" on the NW side of the tree right at ground-level. Upon closer inspection it looks like the tree is leaning about 5&deg;, naturally right toward our house. :worried:
 
 ![1 Broken at the Base?](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Derecho%20-%201.png "Broken at the Base?")
 
@@ -200,5 +203,38 @@ Well, our navigational aid got its wings during the storm.  As you can see in th
 
 ![Just One of Several Collapsed Buildings on My In-Law's Farm](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_2157.jpeg "Just One of Several Collapsed Buildings on My In-Law's Farm")
 
+## Oak Hill Cemetery - August 20, 2020
 
-It's late-evening (actually early morning) and I'm still waiting in the dark on Alliant a full 10.5 days after the event, so time for bed.  Until next time... but I hope there's never another "next time" quite like this one!
+Since all the Alliant trucks rolled past our house around 10 AM this morning, I thought it was time to visit Ian and my parents at Oak Hill Cemetery. Frustrations at home certainly weren't getting any better so I felt like getting away to take a deep breath and realign my perspective a little.  Oak Hill usually does that for me.
+
+Oak Hill Cemetery is well-named...it blankets the hill with Ian and my parents' graves near the very top, and there are lots of oaks, but even more pines. Well, there used to be anyway.
+
+This is perhaps another case where photos tell the story better than I.  However, I'm not sure the few photos I took will reflect the scale of the devastation. For starters, the main road up to the cemetery is still blocked, as are the three entrances into the original cemetery. Fortunately, the newest section where there are no mature trees, was relatively clear. So, Morgan and I were able to drive in and park about 100 yards from the hilltop.
+
+This is a glimpse of what we found there...
+
+![Oak Hill Cemetery from Near the Hilltop Looking South](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-41.jpeg "Oak Hill Cemetery from Our Parked Car, Looking South")
+
+![180 Degree Panorama](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-43.jpeg "Oak Hill Cemetery - 180 Degree Panorama")
+
+I could not bear to shoot the panorama over the opposing 180&deg; view...it was just too sad. :cry:
+
+![The Big Pine Near the McFate Plots](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-49.jpeg "The Big Pine Near the McFate Plots")
+
+The broken pine, shown above, is, or was, near my parents' graves, and you can see their shared headstone just to the right in the image above.  My son, Ian, is buried a little to the left of the edge of the image, but you can't see that grave from this angle because of all the tree debris. ["Ian's Cache", GC4BG3B](https://coord.info/GC4BG3B) is somewhere inside or under that tree. I looked for the container for about 15 minutes this morning, but came up empty-handed. :frowning:
+
+Fortunately, when the ol' tree fell it missed Ian's grave by a few feet. We got lucky and found all four of the clear acrylic cylinders that used to adorn his grave. They are all intact, but need a little TLC before we put them all back out.
+
+My parents' headstone is in good shape, but another tree toppled the nearby stone marker for my aunt, Dorothy Paddleford. I'll see to it that gets fixed soon.
+
+A few weeks ago my brother-in-law, Dennis, set in-motion a plan to install an engraved stone bench as a memorial for my sister, Marlene McFate Burkheimer. It was to be placed not far from the cemetery road at the very top of the hill, about 50' from the big pine.  At one time we thought about looking into wrapping a bench around that ol' pine to provide a nice place, in the shade, to sit and relax. However, providing a concrete base for such a bench would have been very difficult. Maybe if the pine's stump is removed we can place the bench where the tree was, and maybe one day plant another tree to provide the shady spot we hoped for?
+
+![Another View to the South from Ian's Grave - The Road is Still Impassable](https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-51.jpeg "Another View to the South from Ian's Grave - The Road is Still Impassable")
+
+Tomorrow morning I plan to contact the City of Tama and the Oak Hill Cemetery Association to see about volunteering to help with clean-up. I think they are going to want all the help they can get in the coming weeks and months.
+
+## G'night
+
+It's late-evening again, but at least now I have some real lights to work by.  Tomorrow I need to start reprogramming all the devices that have been dead for 11.5 days, and begin making up for as many days of missed work. Time for bed. G'night all.
+
+Until next time... but I hope there's never another "next time" quite like this one!

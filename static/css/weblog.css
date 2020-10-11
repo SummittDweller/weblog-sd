@@ -401,3 +401,15 @@ and (max-width: 780px) {
     width: 100%;
   }
 }
+
+div.announcement-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: whitesmoke;
+  border: 5px solid orange;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1em;
+}

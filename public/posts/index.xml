@@ -1,4 +1,148 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>@Summitt Dweller’s Personal Blog - Posts</title><link>https://summittdweller.com/blogs/mark/https://summittdweller.com/blogs/mark/posts/</link><description>All entries in Posts on Personal Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://summittdweller.com/blogs/mark/" rel="self" type="application/rss+xml"/><item><title>Iowa's 2020 Hurricane</title><link>https://summittdweller.com/blogs/mark/posts/iowahurricane2020/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/iowahurricane2020/</guid><description>&lt;p>It&amp;rsquo;s been far too long, again, since I posted to this blog, but this time I have a legitimate excuse: we&amp;rsquo;ve been without power or internet, or much of anything, since about 11:45 AM on Monday, August 10, 2020. So we have now been more than 10.5 days without power. I&amp;rsquo;m only able to post this because of a portable generator I bought on August 12 (that was an adventure in itself) and the wireless hotspot that my phone has provided almost 24/7 ever since the storm hit.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>@Summitt Dweller’s Personal Blog - Posts</title><link>https://summittdweller.com/blogs/mark/https://summittdweller.com/blogs/mark/posts/</link><description>All entries in Posts on Personal Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://summittdweller.com/blogs/mark/" rel="self" type="application/rss+xml"/><item><title>New Announcement Feature</title><link>https://summittdweller.com/blogs/mark/posts/new-announcement-feature/</link><pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/new-announcement-feature/</guid><description>&lt;p>Quite some time ago I added an &lt;strong>Announcement&lt;/strong> feature to the &lt;a href="https://rootstalk.grinnell.edu">Rootstalk&lt;/a> website that I helped design and maintain for &lt;a href="https://grinnell.edu">Grinnell College&lt;/a>. Events of the past week have driven me to implement this feature as part of this blog and one other site, with some minor improvements.&lt;/p>
+&lt;p>The original &lt;a href="https://rootstalk.grinnell.edu">Rootstalk&lt;/a> version of the feature is very simple, it works around this logic:&lt;/p>
+&lt;ul>
+&lt;li>The site&amp;rsquo;s &lt;code>content/_index.html&lt;/code> page invokes a shortcode named &lt;code>announcement.html&lt;/code>.&lt;/li>
+&lt;li>The &lt;code>announcement.html&lt;/code> shortcode checks for existence of a file path of &lt;code>static/announcement.md&lt;/code>.&lt;/li>
+&lt;li>If the &lt;code>static/announcement.md&lt;/code> file exists, its &lt;em>markdown&lt;/em> content is read and displayed prominently on the home page.&lt;/li>
+&lt;/ul>
+&lt;p>Removing or disabling the announcement is as simple as deleting the file, or simply changing the filename to something like &lt;code>static/.announcement.md&lt;/code>, and republishing the site.&lt;/p>
+&lt;h2 id="implemented-for-the-compass-rose-band">Implemented for the Compass Rose Band&lt;/h2>
+&lt;p>My brother-in-law, the founder and lead-singer for the &lt;a href="https://compassroseband.net">Compass Rose Band&lt;/a>, out of greater metropolitan Cedar Rapids, fell ill, and literally fell down the stairs, on Thursday evening, September 10, 2020. Since my daughter publishes the aforementioned &lt;a href="https://compassroseband.net">CRB&lt;/a> website, we wanted to alert their fans that the show set for Friday evening, September 11, would be canceled. We immediately thought of the &lt;a href="https://rootstalk.grinnell.edu">Rootstalk&lt;/a> &lt;strong>Announcement&lt;/strong> feature and subsequently implemented it for the &lt;a href="https://compassroseband.net">CRB&lt;/a> site.&lt;/p>
+&lt;p>In the case of &lt;a href="https://compassroseband.net">CRB&lt;/a> the feature is implemented just a little differently:&lt;/p>
+&lt;ul>
+&lt;li>Instead of a shortcode the &lt;code>layouts/index.html&lt;/code> file includes a new block of code that looks for a file named &lt;code>content/announcement.md&lt;/code>.&lt;/li>
+&lt;li>If the file exists, its &lt;em>markdown&lt;/em> content is prominently displayed with an orange border near the top of the home page.&lt;/li>
+&lt;/ul>
+&lt;p>Removing or disabling the announcement is just like in &lt;a href="https://rootstalk.grinnell.edu">Rootstalk&lt;/a>, we delete or change the filename to something like &lt;code>content/.announcement.md&lt;/code>, and republish the site.&lt;/p>
+&lt;h2 id="implemented-here-in-this-blog">Implemented Here In This blog&lt;/h2>
+&lt;p>Since I&amp;rsquo;m essentially documenting the new feature here, I thought it only prudent to also implement it here, and that implementation is currently &lt;strong>identical&lt;/strong> to what we did for the &lt;a href="https://compassroseband.net">CRB&lt;/a>.&lt;/p>
+&lt;p>So watch the top of this blog&amp;rsquo;s home for prominent announcements in the future, hopefully none that report dire emergencies. 😃&lt;/p>
+&lt;p>That&amp;rsquo;s a warp. Until next time&amp;hellip;&lt;/p></description></item><item><title>Last of the Clean-up? - Derecho Follow-Up for September 6</title><link>https://summittdweller.com/blogs/mark/posts/last-of-the-derecho-damage-september-6/</link><pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/last-of-the-derecho-damage-september-6/</guid><description>&lt;p>Tomorrow is Labor Day 2020, but it also will mark 4 weeks since the August 10 derecho. Thankfully, I believe today marked the end of the clean-up, at least on my own property. I was going to write this post yesterday after another 6+ hours of work outdoors, but last night we had another storm roll through, and all day the winds have been blowing upwards of 40 mph, so I put in another 6 hours or so cleaning up even more debris. The only good news here is that the city has not yet made a 2nd-pass of curbside debris pick-up, so I don&amp;rsquo;t have to haul it away, just keep adding to the &amp;ldquo;boma&amp;rdquo; at the curb.&lt;/p>
+&lt;h2 id="the-west-side-boma-round-2">The West-side Boma, Round 2&lt;/h2>
+&lt;p>My &lt;a href="https://summittdweller.com/blogs/mark/posts/iowahurricane2020/">post from August 20&lt;/a> includes photos of both our south and west bomas, massive curbside piles of tree debris that surrounded our property on two sides, plus a pile we placed next door in a church parking lot. Well, since that time we had to have our largest pine taken down, and many dead limbs removed from the other three large trees. All of that debris, plus what&amp;rsquo;s fallen just today, formed a new boma on along the curb to our west. I took some photos of that monster today:&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0373.png" alt="The West Boma - Round 2">
+&lt;figcaption>The West Boma - Round 2 - Looking North&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0374.png" alt="The West Boma - Round 2">
+&lt;figcaption>The West Boma - Round 2 - Looking South: Remnants of the Pine in the Foreground&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>Before the storm my backyard was looking pretty good. It&amp;rsquo;s not gone, but I just hope next year some of it might return to its previous glory.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0375.png" alt="The West Boma - Round 2">
+&lt;figcaption>What&amp;#39;s Left of My Backyard&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;h2 id="insurance-not-very-reassuring">Insurance, Not Very Reassuring&lt;/h2>
+&lt;p>I won&amp;rsquo;t name names here, but the company that carries my home-owner&amp;rsquo;s insurance has been NO help at all. I filed a claim with them on August 14 or so, and still have not heard anything from them. In fact, once I found out how badly damaged our big pine tree was I decided to call them directly, that was on Monday, August 24, I believe. I asked them if someone could come take a look at this tree because I&amp;rsquo;d put a plumb-line on it a few days before and was therefore able to detect that it was indeed tilting farther to the east each day. Their response was literally &amp;ldquo;It&amp;rsquo;s not covered unless it&amp;rsquo;s damaged your house.&amp;rdquo;&lt;/p>
+&lt;p>I told them I wasn&amp;rsquo;t concerned about the coverage, I just wanted to know if they could help me determine what to do about it, or if they could even recommend someone who could give me an expert opinion about it. &amp;ldquo;No, we don&amp;rsquo;t do that.&amp;rdquo;, was their answer. So I told them, &amp;ldquo;It&amp;rsquo;s leaning to the northeast and the wind is out of the south, it could easily fall on the neighbor&amp;rsquo;s house.&amp;rdquo; Their response left me speechless, they said, &amp;ldquo;If it falls on their house it is their problem, and their insurance will take care of it.&amp;rdquo;&lt;/p>
+&lt;p>I guess I am just naive when it comes to insurance, I always thought they actually cared about people and were intent on helping prevent disasters, but apparently they just crunch numbers and dole out money, as little as possible I&amp;rsquo;m sure. &lt;strong>I was, and still am, disgusted&lt;/strong>.&lt;/p>
+&lt;p>If they ever do contact me I&amp;rsquo;ll listen to them as well and as long as they listened to me, and then I&amp;rsquo;m going to dump them just as soon as I can find coverage from someone who actually gives a damn.&lt;/p>
+&lt;h2 id="brothers-tree-service-to-the-rescue">Brother&amp;rsquo;s Tree Service To the Rescue&lt;/h2>
+&lt;p>While I was checking up on some apparent fly-by-night tree &amp;ldquo;professionals&amp;rdquo; from out-of-state, I had the good fortune of meeting Shelby, the wife of Martin, an owner of Brother&amp;rsquo;s Tree Service. Martin looked at my tree damage and gave me a very reasonable quote to take care of all the &amp;ldquo;widow-makers&amp;rdquo;. At that time I wasn&amp;rsquo;t planning to have the big pine taken down, but after my insurance disappointment I called Martin and asked him to come look at it ASAP. He thought it should come down AND he interrupted his busy schedule to sweep in on the evening of Wednesday, August 26, to render that leaning tree harmless.&lt;/p>
+&lt;p>I was impressed at how quickly, professionally, and safely, Martin and his partner brought the bulk of that tree down! Finally, I could get some sleep without worrying about which way the wind was blowing. I took a couple photos of that tree removal operation too.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0352.png" alt="Brother&amp;amp;rsquo;s Rendering the Pine Harmless">
+&lt;figcaption>About 30 Minutes into the Pine Tree Removal&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0362.png" alt="Brother&amp;amp;rsquo;s Rendering the Pine Harmless - Progress">
+&lt;figcaption>After About 1 Hour of Pine Tree Removal&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>A few days after bringing most of the pine down, Brother&amp;rsquo;s returned to remove some dangerous hanging limbs from my three remaining trees. Now I could even park my car in my own driveway again!&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0367.png" alt="Brother&amp;amp;rsquo;s Rendering the Pine Harmless - Progress">
+&lt;figcaption>A Few Days Later Brother&amp;#39;s Returned to Clean-Up Hanging Limbs&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;h2 id="what-to-do-about-my-lawn">What To Do About My Lawn?&lt;/h2>
+&lt;p>The one remaining concern I have is with my lawn; the combination of severe drought and lots of heavy equipment traffic has left great canyons in the grass. It litterally is too rough to drive my riding mower over it in most places. I&amp;rsquo;m frankly surprised the rough ride hasn&amp;rsquo;t ruined my mower or any of my lawn equipment yet, or maybe it has?&lt;/p>
+&lt;p>So I&amp;rsquo;m thinking, once the city has removed the newest debris (and there will almost certainly be more lawn-canyons after that), and after I&amp;rsquo;ve subsequently removed whatever they leave behind, I will probably ask one of the local landscape pros to come in. I&amp;rsquo;d like to have them dump a few loads of topsoil on the lawn and top-dress it all with a nice, smooth layer of soil that I&amp;rsquo;d hope to get planted for a new lawn before winter.&lt;/p>
+&lt;p>Wish me luck.&lt;/p>
+&lt;p>That&amp;rsquo;s a warp. Until the next derecho, or the next time, whatever that may be&amp;hellip;&lt;/p></description></item><item><title>Tama-Toledo Parks - Derecho Follow-Up for August 24</title><link>https://summittdweller.com/blogs/mark/posts/tama-toledo-parks-2020-derecho-follow-up-august-24/</link><pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/tama-toledo-parks-2020-derecho-follow-up-august-24/</guid><description>&lt;p>So, the &lt;a href="https://iowageocachers.org">Iowa Geocacher&amp;rsquo;s Organization&lt;/a> annual &lt;a href="https://coord.info/GC8TJ9F">Hike-n-Seek&lt;/a> event is coming to Tama County and Otter Creek Lake on Friday-Sunday, September 25-27, barring any more 2020 disasters. 🍀 The weekend is slated to include September&amp;rsquo;s Friday Lunch Club (FLC) too, but the restaurant that was slated to host FLC was destroyed in the August 10 derecho.&lt;/p>
+&lt;p>This morning &lt;a href="https://www.geocaching.com/p/default.aspx?guid=77b132a8-363f-4989-97d0-8e44db236ada&amp;amp;wid=caae59c7-5c17-43b9-a980-98d6c1a7d7da&amp;amp;ds=2">The FLC Committee&lt;/a>, aka Borky00, aka Bill, asked me about possible outdoor park settings for FLC as a means of giving folks plenty of room for social distancing. Bill mentioned a couple of possibilities including a Tama city park on east 4th Street, and the Lincoln Highway Bridge park at the intersection of 5th Street and old US Highway 30.&lt;/p>
+&lt;p>The city park on east 4th Street is a no-go. There&amp;rsquo;s never been much in the way of facilities there, and after the storm there is literally nothing there. I did have three other possibilities in mind, and needed to check up on them after the storm anyway, so I took a few minutes this morning to gather some information.&lt;/p>
+&lt;h2 id="lincoln-highway-bridge-park---east-5th-street-in-tama">Lincoln Highway Bridge Park - East 5th Street in Tama&lt;/h2>
+&lt;p>This little park, and I do mean little, features two very small shelters but NO grills for cooking. It&amp;rsquo;s a small outdoor meeting place near Tama&amp;rsquo;s iconic Lincoln Highway Bridge, and home to a couple of my own geocache hides. Here&amp;rsquo;s what it looks like after the storm.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0331.png" alt="Lincoln Highway Bridge Park - After the Derecho">
+&lt;figcaption>Lincoln Highway Bridge Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0330.png" alt="Lincoln Highway Bridge Park - After the Derecho">
+&lt;figcaption>Lincoln Highway Bridge Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;h2 id="tama-city-park---near-17th-street-and-mclelland-in-tama">Tama City Park - Near 17th Street and Mclelland in Tama&lt;/h2>
+&lt;p>This is Tama&amp;rsquo; primary park and I&amp;rsquo;d heard it was cleaned up right after the storm, but there&amp;rsquo;s still LOTs of damage here and lots more cleanup to be done. Also, there&amp;rsquo;s only a fireplace in the small shelter, and no grills left on the grounds, at least none that I could see.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0332.png" alt="Tama City Park - After the Derecho">
+&lt;figcaption>Tama City Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0333.png" alt="Tama City Park - After the Derecho">
+&lt;figcaption>Tama City Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0334.png" alt="Tama City Park - After the Derecho">
+&lt;figcaption>Tama City Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0335.png" alt="Tama City Park - After the Derecho">
+&lt;figcaption>Tama City Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;h2 id="toledo-heights-city-park---west-side-of-toledo-on-old-us-30">Toledo Heights City Park - West Side of Toledo on Old US 30&lt;/h2>
+&lt;p>I think this is probably our best bet, assuming the City of Toledo can get the major debris taken care of before the FLC event. I just called the city and spoke with the City Clerk, she made a tentative reservation for me to have the shelter on Friday, September 25 for a reservation fee of $25. There is normally a $50 refundable deposit required but that&amp;rsquo;s being waved because the restroom in the shelter is not open due to the pandemic.&lt;/p>
+&lt;p>This park, about 1/2-mile west of the restaurant that FLC previously booked, has one nice large open shelter with a fireplace, AND two large grills just north of the shelter. Have a look, and note that the park is currently not reserved for any other events on Hike-n-Seek weekend.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0327.png" alt="Toledo Heights City Park - After the Derecho">
+&lt;figcaption>Toledo Heights City Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0328.png" alt="Toledo Heights City Park - After the Derecho">
+&lt;figcaption>Toledo Heights City Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0329.png" alt="Toledo Heights City Park - After the Derecho">
+&lt;figcaption>Toledo Heights City Park - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>That&amp;rsquo;s a warp. Until next time&amp;hellip;&lt;/p></description></item><item><title>Derecho Follow-Up - Saturday, August 22</title><link>https://summittdweller.com/blogs/mark/posts/2020-derecho-follow-up-august-23/</link><pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/2020-derecho-follow-up-august-23/</guid><description>&lt;p>Almost every day for the past few months I have walked with my &amp;ldquo;scurry&amp;rdquo; around Cherry Lake in Tama. We generally walk in the morning before the heat, humidity, and mosquitoes get too bad. We finally got power back on Thursday evening, August 20, so on Friday morning, August 21, 2020, we walked for the first time since the derecho of August 10. It was actually more like an obstacle course than our usual stroll, but we still managed to collect quite a bit of trash, as usual. There were about a dozen places around the lake, a trail that is about 1.33 miles long, where fallen trees required that we climb over or weave around. It&amp;rsquo;s no fun to do either, especially since the &amp;ldquo;weaving&amp;rdquo; sometimes involved venturing off-trail into the poison ivy. Makes me itch just thinking about it.&lt;/p>
+&lt;p>At the west end of Cherry Lake I placed a bench and engraved rock as a memorial for my parents, and my son, Ian. The most recent, pre-derecho photo of the rock and bench was taken on a &amp;ldquo;scurry&amp;rdquo; walk around the lake early this Spring. Portions of scurry-partners Jeff Shaw, and the hind-quarters of four-legged scurry member, Titan Edward, can be seen in this photo from that excursion.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0121.png" alt="McFate Memorial Bench at Cherry Lake - Early Spring 2020">
+&lt;figcaption>McFate Memorial Bench at Cherry Lake - Early Spring 2020&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>On the south side of the lake &amp;ndash; visible in the background of the photo above &amp;ndash; the trail runs parallel to a road that leads to a brush pile where Tama residents can dump tree limbs, brush and leaves collected from their yard. There&amp;rsquo;s been a LOT of that lately! On this occasion a friend of our, Charlie Betz, was hauling a pickup-load of derecho debris to the brush pile and stopped briefly to chat. Charlie suggested that someday soon he would return with his chainsaw to begin clearing deadfall from the trail. We told him to let us know when, and we&amp;rsquo;d see if we could come help. Well, that &amp;ldquo;when&amp;rdquo; was 7 AM the next day, Saturday, August 22.&lt;/p>
+&lt;p>I arrived at the lake at 7 AM on the 22nd and found Charlie already there, preparing to fire up his saw. I brought my little 10&amp;rdquo; Ryobi cordless electric chainsaw and two fully-charged batteries. Jeff Shaw arrived about 20 minutes later and we proceeded to work our way counter-clockwise around the lake trail startring from the parking area on the east end of the lake. It was slow going, especially at first since the north side of the lake is, or was, densely wooded with some mature trees.&lt;/p>
+&lt;p>After three hours of cutting and tossing debris to the side of the trail, we reached my family&amp;rsquo;s memorial bench at the west end of the lake.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0324.png" alt="McFate Memorial Bench at Cherry Lake - After the Derecho">
+&lt;figcaption>McFate Memorial Bench at Cherry Lake - After the Derecho&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>By this time we had waded through way too much PI, been briefly rained on, dulled Charlie&amp;rsquo;s chainsaw blade, and drained both of the saw batteries I had on hand. I think we were drained too. Time for a break, so at 10 AM we departed for some rest, lunch, fresh batteries, and hopefully a new chain for Charlie&amp;rsquo;s saw. We reconvened at Noon, as planned, and spent the next two hours clearing the deadfall around the McFate bench, plus a pair of gnarly monsters that had fallen across the trail near the southeast corner of the lake.&lt;/p>
+&lt;p>It felt really good to get it all done, and now we can engage in our &amp;ldquo;scurry&amp;rdquo; walks around the lake without all the bobbing and weaving required to navigate the obstacle course that was. Every good volunteer effort should conclude with a photo or two, so we got all cleaned up, NOT, and I shot this one.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/IMG_0325.png" alt="The Post-Derecho Cherry Lake Trail Cleanup Crew - Me, Charlie, and Jeff">
+&lt;figcaption>The Post-Derecho Cherry Lake Trail Cleanup Crew - Me, Charlie, and Jeff&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>That&amp;rsquo;s a warp. Until next time&amp;hellip; but only after I&amp;rsquo;ve had a pleasant scurry walk in the morning.&lt;/p></description></item><item><title>Iowa's 2020 Hurricane</title><link>https://summittdweller.com/blogs/mark/posts/iowahurricane2020/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/iowahurricane2020/</guid><description>&lt;p>It&amp;rsquo;s been far too long, again, since I posted to this blog, but this time I have a legitimate excuse: we&amp;rsquo;ve been without power or internet, or much of anything, since about 11:45 AM on Monday, August 10, 2020. So we have now been more than 10.5 days without power. I&amp;rsquo;m only able to post this because of a portable generator I bought on August 12 (that was an adventure in itself) and the wireless hotspot that my phone has provided almost 24/7 ever since the storm hit.&lt;/p>
+&lt;p>Update: Power was finally restored here at about 6:30 PM, on Thursday, August 20, 2020. Now I just have 11.5 days of things to catch up on!&lt;/p>
 &lt;h2 id="preamble">Preamble&lt;/h2>
 &lt;p>The preamble to this story dates back to Christmas 2019, when my daughter gave me a &amp;ldquo;Dad&amp;rsquo;s Love&amp;hellip;&amp;rdquo; daily calendar. There have been a couple of dates I kept because they are so accurate, like the day that says &amp;ldquo;We child-proofed the house but somehow they still got in.&amp;rdquo; 😄 Tama County has been in the grips of a moderate-to-severe drought for the past couple of months so the calendar page for August 10 looked like another &amp;ldquo;keeper&amp;rdquo;. It says:&lt;/p>
 &lt;p>&lt;figure>
@@ -86,7 +230,7 @@
 &lt;/p>
 &lt;h3 id="west-side-story---the-rolling-stone-hot-tub-grill-and-limbs-on-the-roof">West Side Story - The &amp;ldquo;Rolling Stone&amp;rdquo;, Hot Tub, Grill, and Limbs on the Roof&lt;/h3>
 &lt;p>There were three pleasantly-amazing (lucky) things that happened, or didn&amp;rsquo;t happen as the case may be, on the west, windward, side of the house.&lt;/p>
-&lt;p>First up, my home-made lightweight teardrop camper, &amp;ldquo;The Rolling Stone&amp;rdquo;. It&amp;rsquo;s the gray thing that looks like a big old boulder on wheels in the right side of the first image below. It survived, almost unscathed! The only damage was from the door being blown open. That door hit the west wall of the house so hard that it bent a 1/8&amp;rdquo; thick steel latch plate back at a 120-degree angle. Because the door was open things just inside the door also got a little wet, but they dried out well since then. The whole camper pitched forward about 3&amp;rsquo; in the wind, but the on-board drop-foot was out so it didn&amp;rsquo;t fall to the ground. Had any large limbs fallen directly on it we&amp;rsquo;d have had a total loss of structure and contents.&lt;/p>
+&lt;p>First up, my home-made lightweight teardrop camper, &amp;ldquo;The Rolling Stone&amp;rdquo;. It&amp;rsquo;s the gray thing that looks like a big old boulder on wheels in the right side of the first image below. It survived, almost unscathed! The only damage was from the door being blown open. That door hit the west wall of the house so hard that it bent a 1/8&amp;rdquo; thick steel latch plate back at a 120° angle. Because the door was open, things just inside the door also got a little wet, but they dried out well since then. The whole camper pitched forward about 3&amp;rsquo; in the wind, but the on-board drop-foot was down so it didn&amp;rsquo;t fall to the ground. Had any large limbs fallen directly on it, we&amp;rsquo;d have had a total loss of structure and contents.&lt;/p>
 &lt;p>&lt;figure>
 &lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Derecho%20-%2030.png" alt="30 Looking SE from the NW Corner of Our Property">
 &lt;figcaption>Looking SE from the NW Corner of Our Property&lt;/figcaption>
@@ -156,7 +300,7 @@
 &lt;/figure>
 &lt;/p>
 &lt;h3 id="the-tree-wrangler">The Tree Wrangler&lt;/h3>
-&lt;p>On Thursday, August 13, I started to address some of the potential window-makers still hanging in our trees. My first target was the one shown below. I managed to rig a short chain to the end of a nylon rope and after about 10 tries I got the chain wrapped around the most menacing widow-maker, and yanked that sucker right out of the tree. They call me the &amp;ldquo;Tree Wrangler&amp;rdquo;. I&amp;rsquo;m pleased to report that subsequent limb-roping adventures took fewer tosses!&lt;/p>
+&lt;p>On Thursday, August 13, I started to address some of the potential widow-makers still hanging in our trees. My first target was the one shown below. I managed to rig a short chain to the end of a nylon rope and after about 10 tries I got the chain wrapped around the most menacing widow-maker, and yanked that sucker right out of the tree. They call me the &amp;ldquo;Tree Wrangler&amp;rdquo;. I&amp;rsquo;m pleased to report that subsequent limb-roping adventures took fewer tosses!&lt;/p>
 &lt;p>&lt;figure>
 &lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Derecho%20-%2038.png" alt="38 The Tree Wrangler Roped His First Stray">
 &lt;figcaption>&amp;#39;The Tree Wrangler&amp;#39; Roped His First Stray&lt;/figcaption>
@@ -230,7 +374,7 @@
 &lt;/figure>
 &lt;/p>
 &lt;h3 id="my-biggest-remaining-concern---broken-at-the-base">My Biggest Remaining Concern - Broken at the Base?&lt;/h3>
-&lt;p>My biggest remaining worry is the pine tree at the NW corner of the house. On Thursday, August 13, during clean-up I discovered that the bark on the SE side of the tree is &amp;ldquo;crushed&amp;rdquo; as you can see in the image below, and there&amp;rsquo;s a visible &amp;ldquo;crack&amp;rdquo; on the NW side of the tree right at ground-level. Upon closer inspection it looks like the tree is leaning about 5-degrees, naturally right toward our house. 😟&lt;/p>
+&lt;p>My biggest remaining worry is the pine tree at the NW corner of the house. On Thursday, August 13, during clean-up I discovered that the bark on the SE side of the tree is &amp;ldquo;crushed&amp;rdquo; as you can see in the image below, and there&amp;rsquo;s a visible &amp;ldquo;crack&amp;rdquo; on the NW side of the tree right at ground-level. Upon closer inspection it looks like the tree is leaning about 5°, naturally right toward our house. 😟&lt;/p>
 &lt;p>&lt;figure>
 &lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Derecho%20-%201.png" alt="1 Broken at the Base?">
 &lt;figcaption>Broken at the Base?&lt;/figcaption>
@@ -260,7 +404,40 @@
 &lt;figcaption>Just One of Several Collapsed Buildings on My In-Law&amp;#39;s Farm&lt;/figcaption>
 &lt;/figure>
 &lt;/p>
-&lt;p>It&amp;rsquo;s late-evening (actually early morning) and I&amp;rsquo;m still waiting in the dark on Alliant a full 10.5 days after the event, so time for bed. Until next time&amp;hellip; but I hope there&amp;rsquo;s never another &amp;ldquo;next time&amp;rdquo; quite like this one!&lt;/p></description></item><item><title>Pandemic Pastime: Walking and Picking Up Trash</title><link>https://summittdweller.com/blogs/mark/posts/trash-walks/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/trash-walks/</guid><description>&lt;p>It&amp;rsquo;s been far too long since I posted to this blog; I guess I&amp;rsquo;ve been busy? Nah, not any more than usual, but during the COVID-19 pandemic I have doubled my efforts to get out and walk in the fresh air whenever possible. I&amp;rsquo;m thankful for my small &amp;ldquo;scurry&amp;rdquo; &amp;ndash; that&amp;rsquo;s the term for a collective of squirrels &amp;ndash; who not only take walks with me around Cherry Lake, but all around town.&lt;/p>
+&lt;h2 id="oak-hill-cemetery---august-20-2020">Oak Hill Cemetery - August 20, 2020&lt;/h2>
+&lt;p>Since all the Alliant trucks rolled past our house around 10 AM this morning, I thought it was time to visit Ian and my parents at Oak Hill Cemetery. Frustrations at home certainly weren&amp;rsquo;t getting any better so I felt like getting away to take a deep breath and realign my perspective a little. Oak Hill usually does that for me.&lt;/p>
+&lt;p>Oak Hill Cemetery is well-named&amp;hellip;it blankets the hill with Ian and my parents&amp;rsquo; graves near the very top, and there are lots of oaks, but even more pines. Well, there used to be anyway.&lt;/p>
+&lt;p>This is perhaps another case where photos tell the story better than I. However, I&amp;rsquo;m not sure the few photos I took will reflect the scale of the devastation. For starters, the main road up to the cemetery is still blocked, as are the three entrances into the original cemetery. Fortunately, the newest section where there are no mature trees, was relatively clear. So, Morgan and I were able to drive in and park about 100 yards from the hilltop.&lt;/p>
+&lt;p>This is a glimpse of what we found there&amp;hellip;&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-41.jpeg" alt="Oak Hill Cemetery from Near the Hilltop Looking South">
+&lt;figcaption>Oak Hill Cemetery from Our Parked Car, Looking South&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-43.jpeg" alt="180 Degree Panorama">
+&lt;figcaption>Oak Hill Cemetery - 180 Degree Panorama&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>I could not bear to shoot the panorama over the opposing 180° view&amp;hellip;it was just too sad. 😢&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-49.jpeg" alt="The Big Pine Near the McFate Plots">
+&lt;figcaption>The Big Pine Near the McFate Plots&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>The broken pine, shown above, is, or was, near my parents&amp;rsquo; graves, and you can see their shared headstone just to the right in the image above. My son, Ian, is buried a little to the left of the edge of the image, but you can&amp;rsquo;t see that grave from this angle because of all the tree debris. &lt;a href="https://coord.info/GC4BG3B">&amp;ldquo;Ian&amp;rsquo;s Cache&amp;rdquo;, GC4BG3B&lt;/a> is somewhere inside or under that tree. I looked for the container for about 15 minutes this morning, but came up empty-handed. 😦&lt;/p>
+&lt;p>Fortunately, when the ol&amp;rsquo; tree fell it missed Ian&amp;rsquo;s grave by a few feet. We got lucky and found all four of the clear acrylic cylinders that used to adorn his grave. They are all intact, but need a little TLC before we put them all back out.&lt;/p>
+&lt;p>My parents&amp;rsquo; headstone is in good shape, but another tree toppled the nearby stone marker for my aunt, Dorothy Paddleford. I&amp;rsquo;ll see to it that gets fixed soon.&lt;/p>
+&lt;p>A few weeks ago my brother-in-law, Dennis, set in-motion a plan to install an engraved stone bench as a memorial for my sister, Marlene McFate Burkheimer. It was to be placed not far from the cemetery road at the very top of the hill, about 50&amp;rsquo; from the big pine. At one time we thought about looking into wrapping a bench around that ol&amp;rsquo; pine to provide a nice place, in the shade, to sit and relax. However, providing a concrete base for such a bench would have been very difficult. Maybe if the pine&amp;rsquo;s stump is removed we can place the bench where the tree was, and maybe one day plant another tree to provide the shady spot we hoped for?&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/2020-Aug-10-Derecho/Photo-2020-08-20-19-51.jpeg" alt="Another View to the South from Ian&amp;amp;rsquo;s Grave - The Road is Still Impassable">
+&lt;figcaption>Another View to the South from Ian&amp;#39;s Grave - The Road is Still Impassable&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>Tomorrow morning I plan to contact the City of Tama and the Oak Hill Cemetery Association to see about volunteering to help with clean-up. I think they are going to want all the help they can get in the coming weeks and months.&lt;/p>
+&lt;h2 id="gnight">G&amp;rsquo;night&lt;/h2>
+&lt;p>It&amp;rsquo;s late-evening again, but at least now I have some real lights to work by. Tomorrow I need to start reprogramming all the devices that have been dead for 11.5 days, and begin making up for as many days of missed work. Time for bed. G&amp;rsquo;night all.&lt;/p>
+&lt;p>Until next time&amp;hellip; but I hope there&amp;rsquo;s never another &amp;ldquo;next time&amp;rdquo; quite like this one!&lt;/p></description></item><item><title>Pandemic Pastime: Walking and Picking Up Trash</title><link>https://summittdweller.com/blogs/mark/posts/trash-walks/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><author>Mark McFate</author><guid>https://summittdweller.com/blogs/mark/posts/trash-walks/</guid><description>&lt;p>It&amp;rsquo;s been far too long since I posted to this blog; I guess I&amp;rsquo;ve been busy? Nah, not any more than usual, but during the COVID-19 pandemic I have doubled my efforts to get out and walk in the fresh air whenever possible. I&amp;rsquo;m thankful for my small &amp;ldquo;scurry&amp;rdquo; &amp;ndash; that&amp;rsquo;s the term for a collective of squirrels &amp;ndash; who not only take walks with me around Cherry Lake, but all around town.&lt;/p>
 &lt;p>About three months ago there was some vandalism at Cherry Lake, and there was a time when folks were leaving lots of trash around the lake. So our scurry started carrying &amp;ldquo;&lt;a href="https://ungerconsumer.com/product/36-nifty-nabber/">Niffty Nabbers&lt;/a>&amp;rdquo; and now we clean up what we can as we walk. We have even extended the practice beyond the lake, and we generally walk twice a day now, most evenings somewhere in Tama or Toledo away from all the mosquitoes that inhabit Cherry Lake. True to form, we pick up trash as we go.&lt;/p>
 &lt;p>I would estimate that both solo and with my scurry, I/we have picked up about 100 pounds of trash so far.&lt;/p>
 &lt;p>This past weekend I was thinking&amp;hellip; now that we have expaned to more than just Cherry Lake, it would be nice to plot our routes walked somewhere online so that we can keep track of progress, and see where we haven&amp;rsquo;t been yet. Fortunately, I tend to activate a &amp;ldquo;workout&amp;rdquo; recording on my Apple Watch whenever we go out, and I just realized that those routes can be exported from my iPhone as .gpx files. So, one day soon I hope to create a new section in this blog where I can post records, with maps, of our excursions. Look for it in this blog soon, or at least sooner or later.&lt;/p>
